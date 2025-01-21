@@ -34,8 +34,8 @@ project-root/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-agents-phidata.git
-   cd ai-agents-phidata
+   git clone https://github.com/santpa987/SPMaster.git
+   cd projects/cookbook/AIAgent
    ```
 
 2. Create a virtual environment and activate it:
