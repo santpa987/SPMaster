@@ -1,2 +1,1 @@
-# SPMaster
-Santosh Master repository
+Exploring AI Agents with PhiData and Groq.
